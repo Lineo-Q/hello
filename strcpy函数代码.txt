@@ -5,3 +5,5 @@ main(){
     printf("before strcpy() :%s\n", a);
     printf("after strcpy() :%s\n", strcpy(a, b));
 }
+
+测试1233rrrr
