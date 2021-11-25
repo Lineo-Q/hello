@@ -1,3 +1,4 @@
+B19031905 顾青
 #include <string.h>
 main(){
     char a[30] = "string(1)";
