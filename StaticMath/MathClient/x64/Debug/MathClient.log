@@ -1,0 +1,6 @@
+﻿  MathClient.cpp
+MathClient.obj : error LNK2019: 无法解析的外部符号 "public: static double __cdecl MathLibrary::Arithmetic::Add(double,double)" (?Add@Arithmetic@MathLibrary@@SANNN@Z)，函数 main 中引用了该符号
+MathClient.obj : error LNK2019: 无法解析的外部符号 "public: static double __cdecl MathLibrary::Arithmetic::Subtract(double,double)" (?Subtract@Arithmetic@MathLibrary@@SANNN@Z)，函数 main 中引用了该符号
+MathClient.obj : error LNK2019: 无法解析的外部符号 "public: static double __cdecl MathLibrary::Arithmetic::Multiply(double,double)" (?Multiply@Arithmetic@MathLibrary@@SANNN@Z)，函数 main 中引用了该符号
+MathClient.obj : error LNK2019: 无法解析的外部符号 "public: static double __cdecl MathLibrary::Arithmetic::Divide(double,double)" (?Divide@Arithmetic@MathLibrary@@SANNN@Z)，函数 main 中引用了该符号
+C:\Users\Lineo\source\repos\StaticMath\x64\Debug\MathClient.exe : fatal error LNK1120: 4 个无法解析的外部命令
